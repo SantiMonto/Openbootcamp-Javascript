@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio-3",
+  "version": "1.0.0",
+  "description": "calcula el factorial de tres manera distintas mediante ciclos for y while",
+  "main": "factorial-for.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Montoya Posada",
+  "license": "ISC"
+}
