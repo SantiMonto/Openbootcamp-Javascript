@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejercicio-5.js",
+  "scripts": {
+    "start": "node ejercicio-5.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Montoya Posada",
+  "license": "ISC"
+}
