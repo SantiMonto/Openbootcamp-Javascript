@@ -1,0 +1,18 @@
+const nombre = "Santiago";
+const apellido = "Montoya";
+const estudiante = nombre.concat(" ",apellido);
+console.log(estudiante);
+const estudianteMayus = estudiante.toLocaleUpperCase();
+console.log(estudianteMayus);
+const estudianteMinus = estudiante.toLowerCase();
+console.log(estudianteMinus);
+const longiCadena= estudiante.length;
+console.log(longiCadena);
+const primeraLetra = estudiante[0];
+console.log(primeraLetra);
+const ultimaLetra = estudiante[longiCadena-1];
+console.log(ultimaLetra);
+const estudianteSinEspacios = estudiante.trim();
+console.log(estudianteSinEspacios);
+const existe = estudiante.includes(nombre);
+console.log(existe);
