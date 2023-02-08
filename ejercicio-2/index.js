@@ -2,7 +2,7 @@ const objeto = {
     nombre: "Santiago",
     edad: 32,
     Desarrollador: true,
-    fechaNacimiento: new Date("september 18 1990"),
+    fechaNacimiento: new Date(),
     libro:{
         titulo:"El club de las 5 am",
         autor: "Robin Sharma",
@@ -11,4 +11,6 @@ const objeto = {
     },
 };
 
-console.log(objeto.libro.url);
+console.log(objeto.fechaNacimiento.getDate());
+console.log(objeto.fechaNacimiento.getMonth()+1);
+console.log(objeto.fechaNacimiento.getFullYear());
