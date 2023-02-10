@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio-8",
+  "version": "1.0.0",
+  "description": "trabajando con objetos en javascript",
+  "main": "objetos.js",
+  "scripts": {
+    "start" : "node objetos.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Montoya P.",
+  "license": "ISC"
+}
