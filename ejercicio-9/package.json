@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio-9",
+  "version": "1.0.0",
+  "description": "trabajando con fechas en javascript para openbootcamp",
+  "main": "fechas.js",
+  "scripts": {
+    "start" : "node fechas.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Montoya P.",
+  "license": "ISC"
+}
