@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio-7",
+  "version": "1.0.0",
+  "description": "trabajando con sets o conjuntos",
+  "main": "conjuntos.js",
+  "scripts": {
+    "start":"node conjuntos.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Montoya P.",
+  "license": "ISC"
+}
