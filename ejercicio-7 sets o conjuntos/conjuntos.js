@@ -1,4 +1,4 @@
-const miFamilia = ["Guillermo","Rosalba","Juan David","Manuela","Santiago"];
+const miFamilia = ["Guillermo","Rosalba","Juan David","Manuela","Santiago", "Guillermo"];
 const conjunto = new Set(miFamilia);
 console.log(conjunto);
 conjunto.add("Santiago");
