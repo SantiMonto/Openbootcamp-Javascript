@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio-11-funciones",
+  "version": "1.0.0",
+  "description": "funciones basicas para openbootcamp",
+  "main": "funciones.js",
+  "scripts": {
+    "start" : "node funciones.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Montoya P.",
+  "license": "ISC"
+}
