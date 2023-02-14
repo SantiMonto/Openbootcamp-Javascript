@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio-14-clases",
+  "version": "1.0.0",
+  "description": "creando e instanciando clases en javascript con openbootcamp",
+  "main": "clases.js",
+  "scripts": {
+    "start": "node clases.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Montoya P.",
+  "license": "ISC"
+}
